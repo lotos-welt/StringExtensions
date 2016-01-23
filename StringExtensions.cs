@@ -1,15 +1,17 @@
-﻿/*!
- * 文字列操作クラス.
- * 
- * @file	StringExtensions.cs
- * @author	Lotos
- * @date	2015-11-08 23:04
- */
+﻿/************************************************
+StringExtensions.cs
+
+Copyright (c) 2016 LotosLabo
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+************************************************/
 
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
+/* 文字列操作クラス. */
 public class StringExtensions : MonoBehaviour {
 
     /// <summary>
